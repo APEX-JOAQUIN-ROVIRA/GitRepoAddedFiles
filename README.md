@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Set environment variables or configure the `.env` file with the following variables
+Set environment variables or configure the `.env` file with the following variables:
 
 - `GH_TOKEN=<YOUR_GITHUB_TOKEN>`, GitHub access token to be used for login.
 - `BRANCH=master`, Search for commits in this branch.
