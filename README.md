@@ -1,4 +1,4 @@
-# DORA Lead Time Calculator
+# GitRepoAddedFiles
 
 This script retrieves infromation about all new files that have been added to a certain repository branch in a specific time frame.
 
